@@ -1,0 +1,27 @@
+{
+    "name": "team-profile-generator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib",
+      "test": "tests"
+    }, 
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Ithorell/Employment_Tracker"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Ithorell/Employment_Tracker/issues"
+    },
+    "dependencies": {
+        "inquirer": "^7.3.3",
+        "jest" :"29.1.1"
+        },
+    }
